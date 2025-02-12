@@ -1,7 +1,6 @@
 # Pengolahan-Citra
 METODE ROBERT VS SOBEL DALAM MENDETEKSI GARIS TEPI
 ### Visualisasi Robert VS Sobel
-![Visualisasi Robert VS Sobel](https://raw.githubusercontent.com/ann-ahmad/Pengolahan-Citra/main/Robert%&%Sobel.png)
 ![Visualisasi Robert VS Sobel](https://raw.githubusercontent.com/ann-ahmad/Pengolahan-Citra/main/Robert%20&%20Sobel.png)
 
 SEGMENTASI CITRA MENGGUNAKAN CLUSTERING K_MEANS
