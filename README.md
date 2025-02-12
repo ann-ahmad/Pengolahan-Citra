@@ -1,2 +1,5 @@
 # Pengolahan-Citra
-Metode Robert VS Sobel dalam mendeteksi garis tepi, dan segmentasi citra menggunakan clustering K-Means
+METODE ROBERT VS SOBEL DALAM MENDETEKSI GARIS TEPI
+![Deskripsi Gambar](https://raw.githubusercontent.com/username/repo-name/main/output.png)
+
+SEGMENTASI CITRA MENGGUNAKAN CLUSTERING K_MEANS
